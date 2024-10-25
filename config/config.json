@@ -1,0 +1,20 @@
+{
+  "WEB": {
+    "urls": {
+      "home_page": "",
+      "sign_up_page": "",
+      "sign_in_page": ""
+    },
+    "browser": ""
+  },
+
+  "MOBILE": {
+    "desired_capabilities": {
+      "platform_name": "",
+      "app": "",
+      "automation_name": "",
+      "device_name": ""
+    },
+    "appium_server": ""
+  }
+}
